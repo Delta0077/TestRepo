@@ -1,8 +1,8 @@
 <!DOCTYPE html>
 
 <html>
-  <title>Test</title>
   <head>
+    <title>Test</title>
   </head>
   <body>
     <h1>This is my test repo </h1>
